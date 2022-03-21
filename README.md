@@ -31,3 +31,7 @@
 更多帮助
 =========================
 如果你在使用过程中有任何问题，或者有其他特殊需求，可以联络我交流，但因为个人精力的关系，我不可能及时回答和解决每个人的问题。
+
+制作成Docker(在项目根目录下运行)
+=========================
+制作镜像 docker build -t movie_robot . -f Dockerfile --platform linux/amd64 查看镜像 docker images 运行镜像 docker run -it -v -v data:/放置user_config.yml的路径 movie_robot

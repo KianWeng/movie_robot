@@ -7,12 +7,9 @@
 
 **注意，豆瓣和PT的读取和检索，均未使用OpenAPI（如有任何合规问题请及时联系作者下架源码），但模拟请求的过程中，增加了随机延迟机制来保护网站。本工具只能用于学习和自己研究，禁止用作任何商业用途！**
 
-Emby个人影音库
-<img src="https://raw.githubusercontent.com/pofey/movie_robot/main/doc/embyweb.jpg" width="860" height="500" style="float: left;"/>
-
 环境要求
 =========================
-- 影视剧集管理服务器：Emby
+- 影视剧集管理服务器：Emby or Jellyfin
 - BT下载工具：qbittorrent
 - 你需要拥有一个PT站的账号：MTeam（当前仅支持mteam种子自动检索）
 
@@ -34,13 +31,3 @@ Emby个人影音库
 更多帮助
 =========================
 如果你在使用过程中有任何问题，或者有其他特殊需求，可以联络我交流，但因为个人精力的关系，我不可能及时回答和解决每个人的问题。
-
-打赏作者杯咖啡
-=========================
-你的支持，是持续完善的动力。
-
-<img src="https://raw.githubusercontent.com/pofey/movie_robot/main/doc/wechatpay.jpg" width="220" height="220" alt="赞赏码" style="float: left;"/>
-
-打赏过的，加微信进群吧，有任何关于NAS的玩法，都可以交流：
-
-<img src="https://github.com/pofey/movie_robot/raw/main/doc/wechat.JPG" width="244" height="314" alt="微信" style="float: left;"/>
